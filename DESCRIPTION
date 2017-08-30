@@ -1,6 +1,6 @@
 Package: paleogeoDB
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Data repository for paleoMap
 Version: 0.1.0
 Author: c(person("Sara", "Varela", role = c("aut", "cre"),
     email = "svarela@paleobiogeography.org"),
